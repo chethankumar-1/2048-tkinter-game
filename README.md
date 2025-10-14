@@ -16,4 +16,4 @@ A GUI implementation of the popular 2048 game using Python's Tkinter library.
 
 ## Running the Game
 ```bash
-python game_2048.py
+python 2048_tk.py
