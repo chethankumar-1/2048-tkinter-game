@@ -62,7 +62,7 @@ A GUI implementation of the popular 2048 game using Python's Tkinter library.
    - Move Left
    - Move Right
 5. Tips:
-   - eep your highest tile in one corner.
+   - Keep your highest tile in one corner.
    - Avoid unnecessary moves that shuffle the board.
    - Plan merges strategically to prevent blocking yourself.
   
