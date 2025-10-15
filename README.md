@@ -30,7 +30,7 @@ A GUI implementation of the popular 2048 game using Python's Tkinter library.
 1. Download the .exe file from the above link.
 2. Locate the downloaded file in your Downloads folder.
 3. Right-click the .zip file and select Extract All...
-4. Open the extracted folder — you’ll find the file named 2048_tk
+4. Open the extracted folder — you’ll find the file named 2048_tk.exe
 5. Go to inside folder.
 6. Double-click the .exe file to run the game.
 7. If you see a Windows Protected Your PC warning:
